@@ -8,7 +8,6 @@
 	<name>simple-app</name>
 	<url>http://maven.apache.org</url>
 	
-	<!-- Demo on Project-->
 	
 	<dependencies>
 
