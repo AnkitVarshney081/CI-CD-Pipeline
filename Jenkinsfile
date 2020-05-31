@@ -7,6 +7,7 @@ pipeline {
         stage('Build'){
             steps{
                  sh script: 'mvn clean package'
+                 sh script: echo "Hello World"
             }
         }
     }
